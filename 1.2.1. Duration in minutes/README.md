@@ -2,7 +2,9 @@
 
 Напишите программу, которая считает количество минут во временном отрезке.
 >**1h30m = 90 min
+
 >300s = 5 min
+
 >10m = 10 min**
 
 Используйте для этого [time.Duration.Minutes()](https://golang.org/pkg/time/#Duration.Minutes) из стандартной библиотеки.
@@ -10,6 +12,7 @@ ___
 **Напишите программу. Тестируется через stdin → stdout**
 
 **Time Limit:** 8 секунд
+
 **Memory Limit:** 256 MB
 ___
 **Sample Input:**
