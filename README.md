@@ -1,5 +1,6 @@
+___
 ## Stepik: Thank Go! Golang на практике
----
+___
 
 * В файлах `README.md` каждого каталога находится задание и код программы/функции, предоставленные для решения задачи;
 * В каталогах `src/` находятся файлы с решениями.
@@ -15,7 +16,6 @@
 - [x] 1.3.1. [Укорот байтовой строки](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.3.1.%20Shortening%20of%20a%20byte%20line)
 - [x] 1.3.2. [Счетчик цифр](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.3.2.%20Counter%20of%20digits)
 - [x] 1.3.3. [Аббревиатура](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.3.3.%20Abbreviation)
----
 #### 1.4 Функции и указатели
 - [ ] 1.4.1. Фильтр для коллекции
 - [ ] 1.4.2. Перетасовка
