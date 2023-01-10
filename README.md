@@ -14,5 +14,5 @@
 #### 1.3 Массивы и карты
 - [x] 1.3.1. [Укорот байтовой строки](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.3.1.%20Shortening%20of%20a%20byte%20line)
 - [x] 1.3.2. [Счетчик цифр](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.3.2.%20Counter%20of%20digits)
-- [ ] 1.3.3. Аббревиатура
+- [x] 1.3.3. [Аббревиатура](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.3.3.%20Abbreviation)
 ---
