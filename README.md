@@ -17,6 +17,6 @@ ___
 - [x] 1.3.2. [Счетчик цифр](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.3.2.%20Counter%20of%20digits)
 - [x] 1.3.3. [Аббревиатура](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.3.3.%20Abbreviation)
 #### 1.4 Функции и указатели
-- [ ] 1.4.1. Фильтр для коллекции
+- [ ] 1.4.1. [Фильтр для коллекции](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.4.1.%20The%20filter%20for%20a%20collection)
 - [ ] 1.4.2. Перетасовка
 ---
