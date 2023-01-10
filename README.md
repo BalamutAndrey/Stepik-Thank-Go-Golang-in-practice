@@ -18,5 +18,13 @@ ___
 - [x] 1.3.3. [Аббревиатура](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.3.3.%20Abbreviation)
 #### 1.4 Функции и указатели
 - [x] 1.4.1. [Фильтр для коллекции](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.4.1.%20The%20filter%20for%20a%20collection)
-- [ ] 1.4.2. Перетасовка
+- [x] 1.4.2. [Перетасовка](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.4.2.%20Reshuffle)
+---
+### 3. Многозадачность
+#### 3.1 Горутины
+- [ ] 3.1.1. Сколько цифр в каждом слове?
+- [ ] 3.1.2. Канал с результатами
+- [ ] 3.1.3. Выборка из генератора
+- [ ] 3.1.4. Читатель и счетовод
+- [ ] 3.1.5. Горутины в отдельных функциях
 ---
