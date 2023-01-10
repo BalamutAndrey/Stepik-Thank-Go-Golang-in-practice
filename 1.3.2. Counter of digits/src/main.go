@@ -8,23 +8,14 @@ import (
 func main() {
 	var number int
 	fmt.Scanf("%d", &number)
-
-	// Посчитайте, сколько раз каждая цифра встречается
-	// в числе `number`. Запишите результат в карту `counter`,
-	// где ключом является цифра числа, а значением -
-	// сколько раз она встречается
 	counter := make(map[int]int)
-	// ...
-
+	for x := number; x > 0; x = x / 10 {
+		temp := x % 10
+		counter[temp]++
+	}
 	printCounter(counter)
 }
 
-// ┌─────────────────────────────────┐
-// │ не меняйте код ниже этой строки │
-// └─────────────────────────────────┘
-
-// printCounter печатает карту в формате
-// key1:val1 key2:val2 ... keyN:valN
 func printCounter(counter map[int]int) {
 	digits := make([]int, 0)
 	for d := range counter {

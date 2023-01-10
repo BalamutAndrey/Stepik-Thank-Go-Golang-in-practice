@@ -13,6 +13,6 @@
 - [x] 1.2.4. [Язык по коду](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.2.4.%20Language%20by%20the%20code)
 #### 1.3 Массивы и карты
 - [x] 1.3.1. [Укорот байтовой строки](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.3.1.%20Shortening%20of%20a%20byte%20line)
-- [ ] 1.3.2. [Счетчик цифр](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.3.2.%20Counter%20of%20digits)
+- [x] 1.3.2. [Счетчик цифр](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.3.2.%20Counter%20of%20digits)
 - [ ] 1.3.3. Аббревиатура
 ---
