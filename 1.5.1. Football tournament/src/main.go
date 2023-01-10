@@ -31,7 +31,9 @@ type team byte
 // например, строке BAW соответствует
 // first=B, second=A, result=W
 type match struct {
-	// ...
+	first  team
+	second team
+	result result
 }
 
 // rating представляет турнирный рейтинг команд -
@@ -43,16 +45,23 @@ type tournament []match
 
 // calcRating считает и возвращает рейтинг турнира
 func (trn *tournament) calcRating() rating {
-	// ...
+	rt := make(rating)
+	for _, m := range *trn {
+		switch m.result {
+		case win:
+			rt[m.first] += 3
+			rt[m.second] += 0
+		case loss:
+			rt[m.second] += 3
+			rt[m.first] += 0
+		case draw:
+			rt[m.first]++
+			rt[m.second]++
+		}
+	}
+	return rt
 }
 
-// ┌─────────────────────────────────┐
-// │ не меняйте код ниже этой строки │
-// └─────────────────────────────────┘
-
-// код, который парсит результаты игр, уже реализован
-// код, который печатает рейтинг, уже реализован
-// ваша задача - реализовать недостающие структуры и методы выше
 func main() {
 	src := readString()
 	trn := parseTournament(src)
