@@ -25,6 +25,10 @@ ___
 #### 1.6 Интерфейсы
 - [x] 1.6.1. [Универсальный итератор](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.6.1.%20Universal%20iterator)
 - [x] 1.6.2. [Максимальный элемент последовательности](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.6.2.%20Maximum%20element%20of%20a%20sequence)
+#### 1.7 Ошибки
+- [ ] 1.7.1. Счет в банке
+- [ ] 1.7.2. От паники к ошибкам
+- [ ] 1.7.3. Игра без права на ошибку
 ---
 ### 3. Многозадачность
 #### 3.1 Горутины
