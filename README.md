@@ -23,7 +23,7 @@ ___
 - [x] 1.5.1. [Футбольный турнир](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.5.1.%20Football%20tournament)
 - [x] 1.5.2. [Валидатор пароля](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.5.2.%20Password%20validator)
 #### 1.6 Интерфейсы
-- [x] 1.6.1. Универсальный итератор
+- [x] 1.6.1. [Универсальный итератор](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.6.1.%20Universal%20iterator)
 - [ ] 1.6.2. Максимальный элемент последовательности
 ---
 ### 3. Многозадачность
