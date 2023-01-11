@@ -21,7 +21,7 @@ ___
 - [x] 1.4.2. [Перетасовка](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.4.2.%20Reshuffle)
 #### 1.5 Структуры и методы
 - [x] 1.5.1. [Футбольный турнир](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.5.1.%20Football%20tournament)
-- [x] 1.5.2. Валидатор пароля
+- [x] 1.5.2. [Валидатор пароля](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.5.2.%20Password%20validator)
 ---
 ### 3. Многозадачность
 #### 3.1 Горутины
