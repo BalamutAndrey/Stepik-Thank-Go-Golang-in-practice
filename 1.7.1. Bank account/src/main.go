@@ -45,10 +45,6 @@ func (acc *account) withdraw(amount int) error {
 	return nil
 }
 
-// ┌─────────────────────────────────┐
-// │ не меняйте код ниже этой строки │
-// └─────────────────────────────────┘
-
 type test struct {
 	acc   account
 	trans []int
