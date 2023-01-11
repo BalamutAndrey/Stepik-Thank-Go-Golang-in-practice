@@ -74,7 +74,7 @@ func main() {
 // Для сравнения элементов используется вес, который возвращает
 // функция weight.
 func max(it iterator, weight weightFunc) element {
-    var maxEl element
+    var maxEl element = it.val()
     for it.next() {
         curr := it.val()
         if maxEl == nil || weight(curr) > weight(maxEl) {
