@@ -4,7 +4,7 @@
 
 Мы будем писать игру, в которой любая ошибка приводит к трагическому финалу. Сначала пройдем по коду, а затем я расскажу, что требуется сделать.
 
-#### Команда, объект, шаг
+### Команда, объект, шаг
 
 В нашей игре участник выполняет некоторые команды над объектами игрового мира. Поэтому есть тип command и и список доступных команд:
 
@@ -82,7 +82,7 @@ func (s step) isValid() bool {
 }
 ```
 
-#### Игрок
+### Игрок
 
 Есть игрок — тип `player`:
 
@@ -147,7 +147,7 @@ func (p *player) do(cmd command, obj thing) error {
 
 На каждую такую ситуацию метод `do()` возвращает ошибку.
 
-#### Игра
+### Игра
 
 Наконец, есть тип `game` — сама игра:
 
@@ -255,11 +255,13 @@ func tryStep(gm *game, st step) error {
 
 Здесь шаги приводят к успеху:
 
->trying to eat apple... OK
+```
+trying to eat apple... OK
 trying to talk to bob... OK
 trying to take coin... OK
 trying to eat mushroom... OK
 You win!
+```
 
 А здесь нет:
 
@@ -274,10 +276,12 @@ func main() {
 }
 ```
 
->trying to talk to bob... OK
+```
+trying to talk to bob... OK
 trying to talk to bob... FAIL
 you don't want to talk anymore
 exit status 1
+```
 
 ### Задание
 
@@ -338,11 +342,13 @@ func giveAdvice(err error) string {
 
 Например:
 
-> things like 'eat bob' are impossible
+```
+things like 'eat bob' are impossible
 be careful with scarce mirrors
 don't be greedy, 1 apple is enough
+```
 
-#### Итого
+### Итого
 
 1. Создайте отдельные типы ошибок и возвращайте ошибки этих типов в подходящих случаях.
 2. Создайте тип `gameOverError` и возвращайте ошибку этого типа из `game.execute()`.
