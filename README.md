@@ -27,7 +27,7 @@ ___
 - [x] 1.6.2. [Максимальный элемент последовательности](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.6.2.%20Maximum%20element%20of%20a%20sequence)
 #### 1.7 Ошибки
 - [x] 1.7.1. [Счет в банке](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.7.1.%20Bank%20account)
-- [ ] 1.7.2. От паники к ошибкам
+- [x] 1.7.2. [От паники к ошибкам](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.7.2.%20From%20panic%20to%20errors)
 - [ ] 1.7.3. Игра без права на ошибку
 ---
 ### 3. Многозадачность
