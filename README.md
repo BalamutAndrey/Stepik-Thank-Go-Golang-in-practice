@@ -28,7 +28,7 @@ ___
 #### 1.7 Ошибки
 - [x] 1.7.1. [Счет в банке](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.7.1.%20Bank%20account)
 - [x] 1.7.2. [От паники к ошибкам](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.7.2.%20From%20panic%20to%20errors)
-- [ ] 1.7.3. Игра без права на ошибку
+- [ ] 1.7.3. [Игра без права на ошибку](https://github.com/BalamutAndrey/Stepik-Thank-Go-Golang-in-practice/tree/master/1.7.3.%20A%20game%20without%20the%20right%20to%20make%20mistake)
 ---
 ### 3. Многозадачность
 #### 3.1 Горутины
